@@ -1,1 +1,1 @@
-# C187Main
+# PRO-C187-Student-Boilerplate
